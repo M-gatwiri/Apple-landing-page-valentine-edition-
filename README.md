@@ -1,14 +1,24 @@
 # 🍏 Apple Landing Page
 
-A responsive Apple-inspired landing page built with **HTML, CSS, and JavaScript**. Features a top navigation bar with hoverable dropdown menus and a mobile-friendly hamburger menu.
+A responsive Apple-inspired landing page built with HTML, CSS, and JavaScript.
+Built as a UI/UX recreation project to practice responsive navigation,
+dropdown interactions, and mobile menu functionality using vanilla JavaScript.
 
 ---
 
 ## 🌐 Demo
 
-https://vercel.com/m-gatwiris-projects/apple-landing-page-valentine-edition
+https://apple-landing-page-valentine-editio.vercel.app/
 
 ---
+
+## 📸 Preview
+
+![Desktop View](images/screenshot-desktop.png)
+![Mobile View](images/screenshot-mobile.png)
+
+
+
 
 ## ✨ Features
 
@@ -46,15 +56,15 @@ apple-landing-page/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/apple-landing-page.git
+git clone https://github.com/M-gatwiri/apple-landing-page-valentine-edition.git
+```
 
-Open index.html in your browser.
+2. Open `index.html` in your browser.
 
-🚀 Usage
+## 🚀 Usage
 
-Hover over navigation links to reveal dropdown menus.
+- Hover over navigation links to reveal dropdown menus.
+- On mobile, click the hamburger menu to expand navigation.
+- Customize the hero section, colors, and content by editing `index.html` and `style.css`.
 
-On mobile, click the hamburger menu to expand navigation.
-
-Customize the hero section, colors, and content by editing index.html and style.css.
 
