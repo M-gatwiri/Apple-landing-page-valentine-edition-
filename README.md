@@ -67,4 +67,9 @@ git clone https://github.com/M-gatwiri/apple-landing-page-valentine-edition.git
 - On mobile, click the hamburger menu to expand navigation.
 - Customize the hero section, colors, and content by editing `index.html` and `style.css`.
 
+## 📌 Future Improvements
+
+- Add smooth dropdown animations
+- Implement dark/light mode toggle
+- Convert to React for dynamic components
 
